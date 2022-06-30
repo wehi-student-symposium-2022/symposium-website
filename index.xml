@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WEHI Student Symposium 2022</title>
-    <link>https://wehi-student-symposium-2022.github.io/symposium-website/</link>
+    <link>https://wehi-student-symposium-2022.github.io/</link>
     <description>Recent content on WEHI Student Symposium 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://wehi-student-symposium-2022.github.io/symposium-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://wehi-student-symposium-2022.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/blog/2020-12-01-r-rmarkdown/</link>
+      <link>https://wehi-student-symposium-2022.github.io/blog/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/blog/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/blog/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -20,10 +20,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Tanka Theme Demo</title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/blog/hugo-tanka-theme-demo/</link>
+      <link>https://wehi-student-symposium-2022.github.io/blog/hugo-tanka-theme-demo/</link>
       <pubDate>Sat, 21 Nov 2020 12:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/blog/hugo-tanka-theme-demo/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/blog/hugo-tanka-theme-demo/</guid>
       <description>Tanka is a Bootstrap-based minimalist theme for Hugo.
 Vik, Iceland. Photo by Adam Jang.
 Typography Follows the Bootstrap typography.
@@ -39,10 +39,10 @@ Some text, and some code and then a nice plain link with title .</description>
     
     <item>
       <title>Bootstrap 4 Components</title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/blog/bootstrap/</link>
+      <link>https://wehi-student-symposium-2022.github.io/blog/bootstrap/</link>
       <pubDate>Fri, 20 Nov 2020 09:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/blog/bootstrap/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/blog/bootstrap/</guid>
       <description>Some useful Bootstrap 4 components are listed below.
 Buttons Primary Secondary Success Danger Warning Info Light Dark
 Primary Secondary Success Danger Warning Info Light Dark
@@ -51,29 +51,29 @@ Alerts This is a primary alert—check it out! This is a secondary alert—check
     
     <item>
       <title>Detour Sign and the Man in the Neon Coat, Got the Flashlight, Got the Moonlight, Swimming in the Blue Light</title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/blog/long-title/</link>
+      <link>https://wehi-student-symposium-2022.github.io/blog/long-title/</link>
       <pubDate>Fri, 22 Jan 2016 09:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/blog/long-title/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/blog/long-title/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 In modus congue feugait eos.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/about/</link>
+      <link>https://wehi-student-symposium-2022.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/about/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/about/</guid>
       <description>About: What is the WEHI Student Symposium? The WEHI Student Symposium (WSS) is a one-day event for WEHI students to showcase their fantastic science either in short talk or poster format. It is also a student-led initiative: organised for students by students! (plus our awesome post-doc advisers 😄) When will it be held? Monday 14th of November 2022 (start/finish times TBA) Where will it be held? In the Davis Auditorium and Tapestry Lounge on L7 of WEHI </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/abstracts/</link>
+      <link>https://wehi-student-symposium-2022.github.io/abstracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/abstracts/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/abstracts/</guid>
       <description>Abstract submission We are currently accepting abstract submissions from all WEHI students! Please see below for submission guidelines. Submit an abstract now!
 Designed by slidesgo / Freepik
 Who is eligible to submit an abstract? All WEHI students (including undergraduates, honours, masters and PhD students) are eligible to submit an abstract for the symposium. How long should abstracts be? Abstracts should be no more than 300 words long. What format should the abstract be in?</description>
@@ -81,28 +81,28 @@ Who is eligible to submit an abstract? All WEHI students (including undergraduat
     
     <item>
       <title></title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/for-presenters/</link>
+      <link>https://wehi-student-symposium-2022.github.io/for-presenters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/for-presenters/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/for-presenters/</guid>
       <description>Instructions for presenters Instructions for presenters will become available closer to the date. Please check back later. </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/program/</link>
+      <link>https://wehi-student-symposium-2022.github.io/program/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/program/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/program/</guid>
       <description>Program The 2022 WEHI Student Symposium program is still under development! 🚧👷‍♂️ Please check back later. </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://wehi-student-symposium-2022.github.io/symposium-website/registration/</link>
+      <link>https://wehi-student-symposium-2022.github.io/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/registration/</guid>
+      <guid>https://wehi-student-symposium-2022.github.io/registration/</guid>
       <description>Registration For students who have submitted an abstract, please know that the abstract submission form includes registration. There is no need to fill in an additional form. Registration for students not submitting an abstract and the wider WEHI community will become available closer to the date. </description>
     </item>
     
