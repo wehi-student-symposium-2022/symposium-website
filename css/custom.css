@@ -49,9 +49,13 @@ hr {
 }
 
 /* Partial: Header */
+.header {
+  background-image: linear-gradient(to right, rgb(237, 233, 83) , rgb(73, 169, 66), rgb(35,114,185));
+}
 
 .header a {
     text-decoration: none;
+    color: #ffffff;
 }
 
 .header a:hover {
@@ -61,15 +65,16 @@ hr {
 .header h1.name {
     font-weight: 600;
     font-size: 2.1875rem;
-    color: #333333;
+    margin-top: 2rem;
 }
 
 .header ul.nav li {
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 
 .header ul.nav {
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
 }
 
 /* Partial: Content */
