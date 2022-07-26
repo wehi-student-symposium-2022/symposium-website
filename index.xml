@@ -6,7 +6,16 @@
     <description>Recent content on WEHI Student Symposium 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://wehi-student-symposium-2022.github.io/symposium-website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wehi-student-symposium-2022.github.io/symposium-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://wehi-student-symposium-2022.github.io/symposium-website/blog/abstract_writing_guide/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wehi-student-symposium-2022.github.io/symposium-website/blog/abstract_writing_guide/</guid>
+      <description>Abstract writing guide blah blah blah blah blah how to write an abstract</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>https://wehi-student-symposium-2022.github.io/symposium-website/blog/2020-12-01-r-rmarkdown/</link>
@@ -75,9 +84,10 @@ About What is the WEHI Student Symposium? The WEHI Student Symposium (WSS) is a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wehi-student-symposium-2022.github.io/symposium-website/abstracts/</guid>
-      <description>Abstract submission We are currently accepting abstract submissions from all WEHI students! Please see below for submission guidelines. Submit an abstract now!
-Designed by slidesgo / Freepik
-Submission guidelines Who is eligible to submit an abstract? All WEHI students (including undergraduates, honours, masters and PhD students) are eligible to submit an abstract for the symposium. How long should abstracts be? Abstracts should be no more than 300 words long. What format should the abstract be in?</description>
+      <description>Abstract submission We are currently accepting abstract submissions from all WEHI students! Please see below for submission guidelines.
+Submit an abstract now!
+Worried that you don’t have enough data yet? Don&amp;rsquo;t stress! Just tell us about your project background, aims and why you’re excited about your work.
+Not sure how to write an abstract? Have a chat to your lab mates and supervisors for some guidance, or check out our awesome abstract-writing guide .</description>
     </item>
     
     <item>
